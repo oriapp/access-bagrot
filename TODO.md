@@ -1,6 +1,7 @@
 Create micro's
-Sellings table - update when selling
-- [] update quantity
 
-create a presentation more info at the google private docs 
-and that's all to do for 26/6/2021
+
+
+לרשוםן שאילתה ללקחת תחרות לפי מדינה ועיר
+לרשום שאילתה למציאת הקבוצה עם הכי הרבה נצחונות
+לרשום מיקרואים לפחות אחד!!!
